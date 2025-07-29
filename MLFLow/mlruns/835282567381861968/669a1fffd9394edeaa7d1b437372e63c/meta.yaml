@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/835282567381861968/669a1fffd9394edeaa7d1b437372e63c/artifacts
+end_time: 1753720656955
+entry_point_name: ''
+experiment_id: '835282567381861968'
+lifecycle_stage: active
+run_id: 669a1fffd9394edeaa7d1b437372e63c
+run_name: classy-slug-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753720653787
+status: 3
+tags: []
+user_id: murtazanaiyar
